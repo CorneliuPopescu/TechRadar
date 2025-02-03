@@ -1,5 +1,5 @@
-﻿name;ring;quadrant;isNew;status;description
-Docker;adopt;tools;FALSE;New;Portable, lightweight containers for consistent deployment
-CI/CD;trial;techniques;FALSE;New;Automate deployment, testing and operation
-Google Vertex;assess;platforms;TRUE;New;Streamlined AI development and scalable deployment
-NodeJS;hold;languages & frameworks;FALSE;New;Difficult adoption, we prefer Python
+﻿name;ring;quadrant;isNew;description
+Docker;adopt;tools;FALSE;Portable, lightweight containers for consistent deployment
+CI/CD;trial;techniques;FALSE;Automate deployment, testing and operation
+Google Vertex;assess;platforms;TRUE;Streamlined AI development and scalable deployment
+NodeJS;hold;languages & frameworks;FALSE;Difficult adoption, we prefer Python
